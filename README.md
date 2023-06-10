@@ -2,7 +2,8 @@
 
 JumpscareAlert - программа, цель которой поддерживать фокусировку при деятельности за ПК.
 
-![2023-06-10 18-53-20 (online-video-cutter com)](https://github.com/Statuxia/JumpscareAlert/assets/60938251/8425f340-b9f2-4768-b4d9-ce119b3275af)
+![giff](https://github.com/Statuxia/JumpscareAlert/assets/60938251/2e533290-234c-48b6-a7d8-60cecfb9a75d)
+
 
 ### Запуск программы
 
