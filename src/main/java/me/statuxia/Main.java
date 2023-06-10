@@ -23,7 +23,7 @@ public class Main {
         JumpScareSound sound = new JumpScareSound(cl.getResourceAsStream(String.format("sounds/%s.wav", module.getJumpScare())));
         sound.setVolume(module.getVolume());
 
-        System.out.printf("Настройка завершена! Скример запущен и будет появляться в период от %1$d до %2$d%n",
+        System.out.printf("Настройка завершена! Скример запущен и будет появляться в период от %1$d до %2$d%n сек.",
                 delay[0], delay[1]);
 
         while (true) {
